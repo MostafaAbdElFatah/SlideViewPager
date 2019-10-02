@@ -1,0 +1,6 @@
+framework module Pods_SlideViewPager {
+  umbrella header "Pods-SlideViewPager-umbrella.h"
+
+  export *
+  module * { export * }
+}
